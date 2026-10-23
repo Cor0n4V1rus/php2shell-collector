@@ -1,0 +1,15 @@
+#!/bin/bash
+
+source  /usr/share/php2shell-collector/library.sh
+
+php2shell_collector_main  "$@"
+
+
+
+
+
+
+
+
+
+
